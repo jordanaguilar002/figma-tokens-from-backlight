@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/sail-provide-hem3c.figma-tokens-lly7maal",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve azHNXYVUv7UTHDAXWDT2 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
